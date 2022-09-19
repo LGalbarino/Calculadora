@@ -1,7 +1,7 @@
 // Código C para implementação de funções de cálculo aritmético simples:
 // Soma, Subtração, Multiplicação, Divisão, Exponenciação e Extração da Raíz Quadrada
 // Autor: -(Galbarino)-
-// https://github.com/LGalbarino/Projetos/Calculadora.cpp
+// https://github.com/LGalbarino/Calculadora/blob/main/Calculadora.cpp
 // Referências: Disciplina de Elementos de Programação - curso Técnico de Eletrônica - Fundação Liberato Salzano - Eng. Lucas L. Gutkosky
 //              E-book UniLaSalle - disciplina de Algoritmos e Programação - Unidade 2
 //              http://linguagemc.com.br/a-biblioteca-math-h/
